@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadil Senruka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
+
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadil14&label=Profile%20views&color=0e75b6&style=flat" alt="nadil14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadil14" alt="nadil14" /></a> </p>
@@ -23,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadil14&show_icons=true&locale=en" alt="nadil14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadil14&" alt="nadil14" /></p>
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
